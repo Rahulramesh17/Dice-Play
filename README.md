@@ -1,16 +1,45 @@
-# React + Vite
+# 🎲 Dice Game (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fun and interactive dice game built using *React* where users select a number, roll the dice, and earn or lose points based on the result.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
+👉 (Will be added after deployment)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🧠 How the Game Works
+1. Select any number from *1 to 6*
+2. Click on the *dice image* to roll
+3. 🎯 If selected number matches dice value → score increases
+4. ❌ If not matched → score decreases
+5. Dice includes a *roll animation*
+6. Rules can be *shown / hidden*
+7. Score can be *reset anytime*
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+- Number selection logic
+- Dice roll animation
+- Score calculation
+- Error handling if number not selected
+- Reset score functionality
+- Show / Hide rules toggle
+- Clean UI using CSS Modules
+
+---
+
+## 🛠️ Tech Stack
+- React
+- JavaScript (ES6)
+- CSS Modules
+- Vite
+
+---
+
+## 📂 Project Setup (Local)
+```bash
+npm install
+npm run dev
