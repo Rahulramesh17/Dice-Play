@@ -5,7 +5,7 @@ A fun and interactive dice game built using *React* where users select a number,
 ---
 
 ## 🚀 Live Demo
-👉 (Will be added after deployment)
+👉 https://dice-play-ten.vercel.app/
 
 ---
 
