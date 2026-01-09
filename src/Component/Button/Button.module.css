@@ -1,0 +1,13 @@
+.primary_btn {
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+.outline_btn {
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    cursor: pointer;
+}

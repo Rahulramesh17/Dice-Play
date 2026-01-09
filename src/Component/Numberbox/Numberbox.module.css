@@ -1,0 +1,19 @@
+.numberbutton {
+    width: 72px;
+    height: 72px;
+    color: black;
+    font-size: 24px;
+    font-weight: bold;
+    border: 1px solid black;
+    cursor: pointer;
+}
+.activebutton {
+     width: 72px;
+    height: 72px;
+    color: white;
+    background-color: black;
+    font-size: 24px;
+    font-weight: bold;
+    border: 1px solid black;
+    cursor: pointer;
+}

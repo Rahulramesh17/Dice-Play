@@ -1,0 +1,12 @@
+.rule_box {
+    width: 794px;
+    padding: 20px;
+    text-align: left;
+}
+.rule_box h2 {
+    margin-bottom: 12px;
+}
+.rule_box p {
+    line-height: 1.5;
+    font-size: 16px;
+}

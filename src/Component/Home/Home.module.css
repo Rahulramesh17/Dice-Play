@@ -1,0 +1,21 @@
+.container {
+  width: 1182px;
+  height: 100vh;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+}
+.container .img_div {
+  width: 649px;
+  height: 522px;
+}
+.container .content h1 {
+  font-size: 96px;
+  font-weight: bold;
+}
+.container .content {
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+  gap: 10px;
+}
